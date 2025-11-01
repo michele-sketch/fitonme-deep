@@ -1,0 +1,7 @@
+{
+  "name": "Deep seek of FitOnMe",
+  "description": "An AI-powered web application for virtual clothing try-on. Users can upload a photo of themselves and a photo of a garment, and the AI generates a realistic image of them wearing the item. The app includes a credit-based system for generating try-on images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
